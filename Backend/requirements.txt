@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+opencv-python
+pillow
+requests
+matplotlib
+tqdm
+scipy
+seaborn
+uvicorn
+fastapi
